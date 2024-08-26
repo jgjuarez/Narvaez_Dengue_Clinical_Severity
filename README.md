@@ -33,15 +33,12 @@ In this GitHub repository, you will find:
 ## Usage
 To replicate the analysis, follow these steps:
 1. Clone the repository.
-2. Ensure you have the necessary R packages installed (listed in the `requirements.txt` or similar file).
-3. Run the scripts in sequence as described in the `scripts/README.md` file.
+2. Ensure you have the necessary R packages installed.
+3. Run the scripts in sequence as described in the `Main code and Supplementary analysis` file.
 
 ## Citation
 If you use the code or data from this repository, please cite the manuscript as follows:
-Narvaez, F., Montenegro, C., Juarez, J.G., et al. (2024). Dengue severity by serotype and immune status in 19 years of pediatric clinical studies in Nicaragua. *Pre-print* DOI: [10.1101/2024.02.11.24302393](https://doi.org/10.1101/2024.02.11.24302393).
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Narvaez F, Montenegro C, Juarez JG, Zambrana JV, Gonzalez K, Videa E, Arguello S, Barrios F, Ojeda S, Plazaola M, Sanchez N, Camprubi D, Kuan G, Paz-Bailey G, Harris E, Balmaseda A. Dengue severity by serotype and immune status in 19 years of pediatric clinical studies in Nicaragua. medRxiv [Preprint]. 2024 Jul 31:2024.02.11.24302393. doi: 10.1101/2024.02.11.24302393. PMID: 38405964; PMCID: PMC10889012.
 
 ## Acknowledgments
 We would like to thank all the participants and collaborators involved in the studies over the past 19 years.
